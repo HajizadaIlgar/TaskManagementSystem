@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManagement.BL.DTOs;
+using TaskManagement.BL.DTOs.AssignmentDTOs;
 using TaskManagementSystem.Entities;
 
 namespace TaskManagement.BL.Mappers

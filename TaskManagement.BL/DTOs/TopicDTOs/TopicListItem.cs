@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaskManagement.BL.DTOs
+namespace TaskManagement.BL.DTOs.TopicDTOs
 {
-    public class AssignmentListItem
+    public class TopicListItem
     {
         public int Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\implements\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\implements\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\abstracts\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\abstracts\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|solutionrelative:taskmanagement.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C2AB363-0F40-4DA1-B4DB-2589CE2F3B45}|TaskManagement.CORE\\TaskManagement.CORE.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2AB363-0F40-4DA1-B4DB-2589CE2F3B45}|TaskManagement.CORE\\TaskManagement.CORE.csproj|solutionrelative:taskmanagement.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\dtos\\assignmentlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\dtos\\assignmentlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|solutionrelative:taskmanagement.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\mappers\\assignmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\mappers\\assignmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\taskmanagement.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\taskmanagement.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,8 +11,68 @@
       "RelativeMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|solutionrelative:taskmanagement.dal\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.dal\\taskmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49486D20-1C37-45B6-A8F8-317BF6F8FDE4}|TaskManagement.DAL\\TaskManagement.DAL.csproj|solutionrelative:taskmanagement.dal\\taskmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\implements\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\implements\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\mappers\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\mappers\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\mappers\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\mappers\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\mappers\\topicprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\mappers\\topicprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.api\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20CFF1C-5244-4FA1-9594-D5B6A0D65A50}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\implements\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\implements\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\abstracts\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\abstracts\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\dtos\\topicdtos\\topiccreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\dtos\\topicdtos\\topiccreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.bl\\dtos\\tagdtos\\taglistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B96AC69-692F-484C-9A10-18B653AB5BA4}|TaskManagement.BL\\TaskManagement.BL.csproj|solutionrelative:taskmanagement.bl\\dtos\\tagdtos\\taglistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2AB363-0F40-4DA1-B4DB-2589CE2F3B45}|TaskManagement.CORE\\TaskManagement.CORE.csproj|c:\\users\\classtime\\desktop\\apitask\\taskmanagementsystem\\taskmanagement.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2AB363-0F40-4DA1-B4DB-2589CE2F3B45}|TaskManagement.CORE\\TaskManagement.CORE.csproj|solutionrelative:taskmanagement.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +82,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssignmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\Repositories\\AssignmentRepository.cs",
-              "RelativeDocumentMoniker": "TaskManagement.DAL\\Repositories\\AssignmentRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\Repositories\\AssignmentRepository.cs",
-              "RelativeToolTip": "TaskManagement.DAL\\Repositories\\AssignmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Implements\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\EmployeeService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Implements\\EmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:21:50.767Z",
+              "WhenOpened": "2025-01-09T10:36:01.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AssignmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\AssignmentsController.cs",
-              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\AssignmentsController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\AssignmentsController.cs",
-              "RelativeToolTip": "TaskManagement.API\\Controllers\\AssignmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\TagService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Implements\\TagService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\TagService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Implements\\TagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:14:33.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssignmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\AssignmentService.cs",
-              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Implements\\AssignmentService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\AssignmentService.cs",
-              "RelativeToolTip": "TaskManagement.BL\\Services\\Implements\\AssignmentService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:23:36.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAssignmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\IAssignmentService.cs",
-              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Abstracts\\IAssignmentService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\IAssignmentService.cs",
-              "RelativeToolTip": "TaskManagement.BL\\Services\\Abstracts\\IAssignmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:23:36.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "TaskManagement.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "TaskManagement.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:18:07.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAssignmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.CORE\\Repositories\\IAssignmentRepository.cs",
-              "RelativeDocumentMoniker": "TaskManagement.CORE\\Repositories\\IAssignmentRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.CORE\\Repositories\\IAssignmentRepository.cs",
-              "RelativeToolTip": "TaskManagement.CORE\\Repositories\\IAssignmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:30:42.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssignmentListItem.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\AssignmentListItem.cs",
-              "RelativeDocumentMoniker": "TaskManagement.BL\\DTOs\\AssignmentListItem.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\AssignmentListItem.cs",
-              "RelativeToolTip": "TaskManagement.BL\\DTOs\\AssignmentListItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:25:18.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssignmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\AssignmentProfile.cs",
-              "RelativeDocumentMoniker": "TaskManagement.BL\\Mappers\\AssignmentProfile.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\AssignmentProfile.cs",
-              "RelativeToolTip": "TaskManagement.BL\\Mappers\\AssignmentProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:47:54.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManagement.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Program.cs",
-              "RelativeToolTip": "TaskManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:24:25.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServiceRegistiration.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\ServiceRegistiration.cs",
-              "RelativeDocumentMoniker": "TaskManagement.DAL\\ServiceRegistiration.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\ServiceRegistiration.cs",
-              "RelativeToolTip": "TaskManagement.DAL\\ServiceRegistiration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:18:40.522Z",
+              "WhenOpened": "2025-01-09T10:35:46.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TaskManagement.BL",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\TaskManagement.BL.csproj",
-              "RelativeDocumentMoniker": "TaskManagement.BL\\TaskManagement.BL.csproj",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\TaskManagement.BL.csproj",
-              "RelativeToolTip": "TaskManagement.BL\\TaskManagement.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-09T07:15:38.254Z",
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "TaskManagement.API\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:31:03.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "TaskManagement.DAL",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\TaskManagement.DAL.csproj",
-              "RelativeDocumentMoniker": "TaskManagement.DAL\\TaskManagement.DAL.csproj",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\TaskManagement.DAL.csproj",
-              "RelativeToolTip": "TaskManagement.DAL\\TaskManagement.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-09T07:17:12.146Z",
+              "Title": "TopicService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\TopicService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Implements\\TopicService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Implements\\TopicService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Implements\\TopicService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:30:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "TaskManagement.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:31:22.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\TopicsController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "TaskManagement.API\\Controllers\\TopicsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:11:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "TaskManagement.API\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:16:07.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\TagProfile.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Mappers\\TagProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\TagProfile.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Mappers\\TagProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:49:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.API\\Program.cs",
+              "RelativeToolTip": "TaskManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:17:48.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "TaskManagement.DAL\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.DAL\\ServiceRegistiration.cs",
+              "RelativeToolTip": "TaskManagement.DAL\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:14:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Mappers\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\EmployeeProfile.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Mappers\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:57:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITopicService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\ITopicService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Abstracts\\ITopicService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\ITopicService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Abstracts\\ITopicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:04:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TopicProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\TopicProfile.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Mappers\\TopicProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Mappers\\TopicProfile.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Mappers\\TopicProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:13:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\ITagService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Abstracts\\ITagService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\ITagService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Abstracts\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:05:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\Services\\Abstracts\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeToolTip": "TaskManagement.BL\\Services\\Abstracts\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:43:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TopicCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\TopicDTOs\\TopicCreateDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\DTOs\\TopicDTOs\\TopicCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\TopicDTOs\\TopicCreateDTO.cs",
+              "RelativeToolTip": "TaskManagement.BL\\DTOs\\TopicDTOs\\TopicCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:05:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TagListItem.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\TagDTOs\\TagListItem.cs",
+              "RelativeDocumentMoniker": "TaskManagement.BL\\DTOs\\TagDTOs\\TagListItem.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.BL\\DTOs\\TagDTOs\\TagListItem.cs",
+              "RelativeToolTip": "TaskManagement.BL\\DTOs\\TagDTOs\\TagListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:53:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.CORE\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.CORE\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\APITask\\TaskManagementSystem\\TaskManagement.CORE\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "TaskManagement.CORE\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:08:43.611Z",
               "EditorCaption": ""
             }
           ]

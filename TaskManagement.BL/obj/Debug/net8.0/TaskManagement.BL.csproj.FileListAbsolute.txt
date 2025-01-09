@@ -15,3 +15,4 @@ C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\De
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\refint\TaskManagement.BL.dll
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.pdb
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\ref\TaskManagement.BL.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.sourcelink.json

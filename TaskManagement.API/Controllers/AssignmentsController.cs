@@ -1,6 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using TaskManagement.BL.DTOs;
+﻿using Microsoft.AspNetCore.Mvc;
+using TaskManagement.BL.DTOs.AssignmentDTOs;
 using TaskManagement.BL.Services.Abstracts;
 
 namespace TaskManagement.API.Controllers
@@ -23,7 +22,7 @@ namespace TaskManagement.API.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             await _service.Delete(id);
-            return Ok();
+            return NoContent();
         }
     }
 }

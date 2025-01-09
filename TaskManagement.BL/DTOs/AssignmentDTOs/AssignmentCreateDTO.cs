@@ -5,22 +5,22 @@ using System.Text;
 using System.Threading.Tasks;
 using TaskManagementSystem.Entities;
 
-namespace TaskManagement.BL.DTOs
+namespace TaskManagement.BL.DTOs.AssignmentDTOs
 {
     public class AssignmentCreateDTO
     {
         public string Title { get; set; }
         public string Description { get; set; }
-        public int EmployeeId {  get; set; }
-        public int TopicId {  get; set; }
+        public int EmployeeId { get; set; }
+        public int TopicId { get; set; }
         public static implicit operator Assignment(AssignmentCreateDTO dto)
         {
             Assignment assignment = new Assignment
             {
                 Title = dto.Title,
                 Description = dto.Description,
-                EmployeeId=dto.EmployeeId,
-                TopicId=dto.TopicId
+                EmployeeId = dto.EmployeeId,
+                TopicId = dto.TopicId
             };
             return assignment;
         }

@@ -152,3 +152,4 @@ C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.API\bin\D
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.sourcelink.json

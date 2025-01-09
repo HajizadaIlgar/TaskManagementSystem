@@ -9,3 +9,4 @@ C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\refint\TaskManagement.CORE.dll
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.pdb
 C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\ref\TaskManagement.CORE.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.sourcelink.json

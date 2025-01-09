@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
 using TaskManagement.BL.Services.Abstracts;
 using TaskManagement.BL.Services.Implements;
 using TaskManagement.DAL;
@@ -7,11 +6,14 @@ using TaskManagement.DAL.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddService();
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+builder.Services.AddScoped<ITagService, TagService>();
 builder.Services.AddScoped<IAssignmentService, AssignmentService>();
+builder.Services.AddScoped<ITopicService, TopicService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddDbContext<TaskManagementSystemDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("MYSql"));
@@ -31,4 +33,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
- 
