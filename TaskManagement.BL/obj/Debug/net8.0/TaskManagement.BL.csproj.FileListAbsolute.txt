@@ -1,0 +1,17 @@
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.BL.deps.json
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.BL.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.BL.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.CORE.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.DAL.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.DAL.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\bin\Debug\net8.0\TaskManagement.CORE.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskMana.6C2C2E61.Up2Date
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\refint\TaskManagement.BL.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\TaskManagement.BL.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.BL\obj\Debug\net8.0\ref\TaskManagement.BL.dll

@@ -1,0 +1,11 @@
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\bin\Debug\net8.0\TaskManagement.CORE.deps.json
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\bin\Debug\net8.0\TaskManagement.CORE.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\bin\Debug\net8.0\TaskManagement.CORE.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\refint\TaskManagement.CORE.dll
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\TaskManagement.CORE.pdb
+C:\Users\Classtime\Desktop\APITask\TaskManagementSystem\TaskManagement.CORE\obj\Debug\net8.0\ref\TaskManagement.CORE.dll
